@@ -43,7 +43,7 @@ import requests
 # ═══════════════════════════════════════════════════════════════════════
 
 BOT_TOKEN = "8742060994:AAEBZd8OXwwjYy8sWe6BPu5ryeHZfr5Njsw"
-ADMIN_ID  = 8960662469
+ADMIN_ID  = 7807515642
 API       = f"https://api.telegram.org/bot{BOT_TOKEN}"
 
 BRAND   = "Exusan2"
